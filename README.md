@@ -7,7 +7,9 @@ Voyant Tools is an open-source text analysis tool available online. It was desi
 ----
 
 ## Getting Started
-Outstanding cover letters and resumes can turn a middle-of-the-road candidate into a top contender. It is vital to create a resume and cover letter in such a way that it is selected by recruiters. Recruiter uses sourcing tools to shortlist resumes and cover letters for the interview process. Sourcing tools aim to shortlist candidates through smarter job matching. The goal is to create a pool of quality candidates who have skill sets that are as close as possible to the job description criteria.
+I am currently looking for a job and would like to create a resume and cover letter that it get shortlisted for the further interview process. Outstanding cover letters and resumes can turn a middle-of-the-road candidate into a top contender. It is vital to create a resume and cover letter in such a way that it is selected by recruiters. Recruiter uses sourcing tools to shortlist resumes and cover letters for the interview process. Sourcing tools aim to shortlist candidates through smarter job matching. The goal is to create a pool of quality candidates who have skill sets that are as close as possible to the job description criteria.
+
+I will use Voyant to analyze job posting text to draw upon the important words/text and utilize those to craft my resume and cover letter. You will also need to download the module for the workshop by clicking HERE
 
 ----
 
