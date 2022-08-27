@@ -1,14 +1,8 @@
-Add in the workshop image here 
-
 ![Tool Logo](Voyant.jfif)
 
 
-# Title of Workshop
-Description of workshop including what you will learn and any tools that will be used in the process.
-
-Note recommending any prerequisite knowledge needed for the workshop.  If none is needed then say "No prior experience with WORKSHOP-TOPIC/TOOL is needed for this workshop."
-
-*Estimated length of workshop: ## hours*
+# Introduction to Voyant
+Voyant Tools is an open-source text analysis tool available online. It was designed with the digital humanities in mind, with the goal of making reading and interpretation easier for its users. With plain text, HTML, XML, PDF, RTF, and MS Word files, Voyant can generate word clouds, display word frequency or collocation, and perform other text mining functions. Voyant Tools have been used by researchers to analyze texts in a variety of contexts, including literature, language teaching, healthcare, and system architecture.
 
 ----
 
