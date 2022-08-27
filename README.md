@@ -6,15 +6,8 @@ Voyant Tools is an open-source text analysis tool available online. It was desi
 
 ----
 
-## Setup Instructions
-In preparation for this workshop, you will need...
-
-Include:
- - All software that needs to be downloaded
- - Any accounts that will need to be made including links to the sign up pages for those accounts
- - All files that will need to be downloaded in order to participate in the workshop as well as instructions on exactly how to download them.  
-
-For all of the above, keep in mind that some of our attendees could be using machines on campus and therefore might have limitations in regards to downloading tools and files.
+## Getting Started
+Outstanding cover letters and resumes can turn a middle-of-the-road candidate into a top contender. It is vital to create a resume and cover letter in such a way that it is selected by recruiters. Recruiter uses sourcing tools to shortlist resumes and cover letters for the interview process. Sourcing tools aim to shortlist candidates through smarter job matching. The goal is to create a pool of quality candidates who have skill sets that are as close as possible to the job description criteria.
 
 ----
 
