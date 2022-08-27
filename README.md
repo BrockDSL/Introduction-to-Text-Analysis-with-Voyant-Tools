@@ -1,6 +1,6 @@
 Add in the workshop image here 
 
-![Tool Logo](Image filename)
+![Tool Logo](Voyant.jfif)
 
 
 # Title of Workshop
