@@ -22,7 +22,7 @@ I will use Voyant to analyze job posting text to draw upon the important words/t
 
 ----
 
-## Understanding Voyant Dashboard
+# Understanding Voyant Dashboard
 
 
 
