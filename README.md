@@ -27,7 +27,7 @@ I will use Voyant to analyze job posting text to draw upon the important words/t
 
 ## Understanding Voyant Dashboard
 
-Please click on the pink info icons on the image below to learn more about the differnt tools on Voyant Dashboard.
+Please click on the pink info icons on the image below to learn more about the different tools on Voyant Dashboard.
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/43970/embed" width="993" height="590" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
