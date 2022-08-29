@@ -39,31 +39,31 @@ There are various other tools offered by Voyant: corpus tools, document tools, v
 
 <ins>**Corpus Tools**</ins>
 
-*	Terms: A table view of term frequencies in the entire corpus
-*	Collocates: Represents terms that occur in close proximity
+*	Terms: A table view of term frequencies in the entire corpus.
+*	Collocates: Represents terms that occur in close proximity.
 *	DreamScape: A preliminary attempt to explore how texts might be represented geo-spatially. The tool tries to identify locations (especially city names) mentioned in texts and suggests patterns of recurring connections between locations, patterns that might help identify travel of people, ideas, goods, or anything else.
-*	Veliza: An experimental tool for having a (limited) natural language exchange (in English) based on your corpus
-*	WordTree: A tool that allows you to explore how words are used in phrases
+*	Veliza: An experimental tool for having a (limited) natural language exchange (in English) based on your corpus.
+*	WordTree: A tool that allows you to explore how words are used in phrases.
 
 
 <ins>**Document Tools**</ins>
 
-*	Reader: Lets you read the document being analyzed
-*	TextualArc: Visualization of terms that include a weighted centroid of terms and an arc that follows terms in document order
-*	Documents: The assembled documents in the Voyant session, if you are analyzing more than one document
-*	Topics: Generates term clusters from the document
-*	Links: The collocation of terms in a corpus displayed in a network
+*	Reader: Lets you read the document being analyzed.
+*	Documents: The assembled documents in the Voyant session, if you are analyzing more than one document.
+*	Topics: Generates term clusters from the document.
+*	Links: The collocation of terms in a corpus displayed in a network.
 
 
 <ins>**Visualization Tools**</ins>
 
-*	Knots: Visualization that represents terms as a series of twisted lines
+*	Knots: Visualization that represents terms as a series of twisted lines.
 *	Bubbles: Visualization of term frequencies by the document. Looks like a bunch of bubbles on a screen, with a word in each bubble.
-*	Mandala: A conceptual visualization that shows the relationships between terms and documents. Each search term (or magnet) pulls documents toward it based on the term's relative frequency in the corpus.
-*	MicroSearch: Visualizes the frequency and distribution of terms across the document or documents
-*	StreamGraph: a visualization that depicts the change of frequency of words in a corpus
-*	ScatterPlot: Visualization of how words cluster in a document
-*	TermsRadio: a visualization that depicts the changes in the frequency of words in a document(s)
+*	Mandala: Visualization that shows the relationships between terms and documents. Each search term (or magnet) pulls documents toward it based on the term's relative frequency in the corpus.
+*	MicroSearch: Visualizes the frequency and distribution of terms across the document or documents.
+*	StreamGraph: Visualization that depicts the change of frequency of words in a corpus.
+*	ScatterPlot: Visualization of how words cluster in a document.
+*	TermsRadio: Visualization that depicts the changes in the frequency of words in a document(s).
+*	*	TextualArc: Visualization of terms that include a weighted centroid of terms and an arc that follows terms in document order.
 
 
   
