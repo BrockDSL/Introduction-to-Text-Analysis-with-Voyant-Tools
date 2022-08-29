@@ -7,7 +7,7 @@ Voyant Tools is an open-source text analysis tool available online. It was desi
 
 ----
 
-## Single Document Analysis 
+## Single Text Analysis 
 
 I am currently looking for a job and would like to create a resume and cover letter in such a way that it get shortlisted for the further interview process. Outstanding cover letters and resumes can turn a middle-of-the-road candidate into a top contender. It is vital to create a resume and cover letter in a manner that it is selected by recruiters. Recruiter uses sourcing tools to shortlist resumes and cover letters for the interview process. Sourcing tools aim to shortlist candidates through smarter job matching. The goal is to create a pool of quality candidates who have skill sets that are as close as possible to the job description criteria.
 
@@ -52,7 +52,7 @@ There are various other tools offered by Voyant: corpus tools, document tools, v
 
 <ins>**Document Tools**</ins>
 
-*	Reader: Lets you read the document being analyzed.
+*	Reader: Reader allows you read the document being analyzed.
 *	Documents: The assembled documents in the Voyant session, if you are analyzing more than one document.
 *	Topics: Generates term clusters from the document.
 *	Links: The collocation of terms in a corpus displayed in a network.
@@ -69,7 +69,10 @@ There are various other tools offered by Voyant: corpus tools, document tools, v
 *	TermsRadio: Visualization that depicts the changes in the frequency of words in a document(s).
 *	TextualArc: Visualization of terms that include a weighted centroid of terms and an arc that follows terms in document order.
 
+----
+## Multiple Text Analysis
 
+----
   
 **End notes**
 This is where you mention the DSL, MDGL, or Research Lifecycle department and put in contact information.  An example of what this might look like is:
