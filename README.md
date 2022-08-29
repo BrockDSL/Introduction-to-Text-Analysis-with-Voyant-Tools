@@ -63,7 +63,7 @@ There are various other tools offered by Voyant: corpus tools, document tools, v
 *	StreamGraph: Visualization that depicts the change of frequency of words in a corpus.
 *	ScatterPlot: Visualization of how words cluster in a document.
 *	TermsRadio: Visualization that depicts the changes in the frequency of words in a document(s).
-*	*	TextualArc: Visualization of terms that include a weighted centroid of terms and an arc that follows terms in document order.
+*	TextualArc: Visualization of terms that include a weighted centroid of terms and an arc that follows terms in document order.
 
 
   
