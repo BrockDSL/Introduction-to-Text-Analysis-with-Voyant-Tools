@@ -23,6 +23,10 @@ I will use Voyant to analyze job posting text to draw upon the important words/t
 
 * Once you’ve uploaded the file, you’ll see your Voyant “dashboard”. 
 
+**Please watch the video below for quick review on getting started with Voyant Tool**
+
+<iframe src="https://h5pstudio.ecampusontario.ca/h5p/44040/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
+
 ----
 
 ## Understanding Voyant Dashboard
