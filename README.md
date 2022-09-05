@@ -1,4 +1,4 @@
-![Tool Logo](Voyant.jfif)
+![Tool Logo](Introduction To Voyant.png)
 
 
 # Introduction to Voyant
