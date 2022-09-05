@@ -72,6 +72,8 @@ There are various other tools offered by Voyant: corpus tools, document tools, v
 ----
 ## Multiple Text Analysis
 
+
+
 ----
   
 **End notes**
