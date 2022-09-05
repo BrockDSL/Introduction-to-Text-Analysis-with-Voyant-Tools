@@ -84,13 +84,15 @@ Please open your [Voyant Tool](https://voyant-tools.org/). Once it is opened, pl
 <mark>https://raw.githubusercontent.com/DagaGargi/Introduction-to-Text-Analysis-with-Voyant-Tools/master/Pride%20and%20Prejudice%2C%20by%20Jane%20Austen.txt</mark>
 
 *Please make sure to put both the links under separate lines*
+
+
 ***Part Two:***
+
 You will see a Voyant dashboard that gives the analysis for both texts.
+
 The summary section will you provide a comparative analysis of the novels on the basis of document length, vocabulary density, average words per sentence, readability index, most frequent words in the corpus, and distinctive words. 
 
 When you will click on the document tab, it will reveal the words, types, ratios, and words/sentences for both novels. 
-
-
 
 ----
   
