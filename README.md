@@ -72,6 +72,24 @@ There are various other tools offered by Voyant: corpus tools, document tools, v
 ----
 ## Multiple Text Analysis
 
+When you read many novels or poems, how do you analyze them? What kind of information do you look for, and how do you decide what it means? Voyant can be also utilized to perform multiple text analyses. Multiple text analysis generally involves detecting patterns, such as identifying word frequency or associative links between words and comparing two or more texts. The most frequent usage of multiple text analysis is for distant reading. Distant reading refers to the use of computational methods to analyze literary texts without actually reading the whole document. 
+We will perform the multiple text analysis on two books that are taken from [Project Gutenberg]( https://www.gutenberg.org/). Project Gutenberg is a library of over 60,000 free eBooks. 
+
+***Part One:***
+
+Please open your [Voyant Tool](https://voyant-tools.org/). Once it is opened, please copy, and paste the below-mentioned links for the books- Alice Adventures in Wonderland and Pride and Prejudice under the **ADD TEXT** section. 
+
+<mark>https://raw.githubusercontent.com/DagaGargi/Introduction-to-Text-Analysis-with-Voyant-Tools/master/Alice%E2%80%99s%20Adventures%20in%20Wonderland%2C%20by%20Lewis%20Carroll.txt</mark>
+
+<mark>https://raw.githubusercontent.com/DagaGargi/Introduction-to-Text-Analysis-with-Voyant-Tools/master/Pride%20and%20Prejudice%2C%20by%20Jane%20Austen.txt</mark>
+
+*Please make sure to put both the links under separate lines*
+***Part Two:***
+You will see a Voyant dashboard that gives the analysis for both texts.
+The summary section will you provide a comparative analysis of the novels on the basis of document length, vocabulary density, average words per sentence, readability index, most frequent words in the corpus, and distinctive words. 
+
+When you will click on the document tab, it will reveal the words, types, ratios, and words/sentences for both novels. 
+
 
 
 ----
