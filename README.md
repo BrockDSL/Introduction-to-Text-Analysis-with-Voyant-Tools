@@ -85,6 +85,7 @@ Please open your [Voyant Tool](https://voyant-tools.org/). Once it is opened, pl
 
 *Please make sure to put both the links under separate lines*
 
+![](Part 1.jpg)
 
 ***Part Two:***
 
@@ -92,8 +93,11 @@ You will see a Voyant dashboard that gives the analysis for both texts.
 
 The summary section will you provide a comparative analysis of the novels on the basis of document length, vocabulary density, average words per sentence, readability index, most frequent words in the corpus, and distinctive words. 
 
+![](Part 2.jpg)
+
 When you will click on the document tab, it will reveal the words, types, ratios, and words/sentences for both novels. 
 
+![](Part2.2.jpg)
 ----
 
 **This workshop is brought to you by the Brock University Digital Scholarship Lab.  For a listing of our upcoming workshops go to [Experience BU](https://experiencebu.brocku.ca/organization/dsl) if you are a Brock affiliate or [Eventbrite page](https://www.eventbrite.ca/o/brock-university-digital-scholarship-lab-21661627350) for external attendees.  For additional inquiries, contact [DSL@Brocku.ca](mailto:DSL@Brocku.ca)**
