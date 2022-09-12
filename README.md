@@ -43,7 +43,7 @@ Please click on the pink info icons on the image below to learn more about the d
 
 There are various other tools offered by Voyant: corpus tools, document tools, visualization tool, grid tools and other tools. To choose another tools, you will have to hover the cursor on the left hand side of the question mark, just besdies other tool. As soon as you will hover the cursor, you will see three different icons. Click on the middle icon( windows symbol) to view  different tools. 
 
-![]()
+![How to open differnt tools](Tools.jpg)
 
 There are certain tools which are repetitive, for the purpose of this module, we have excluded the repetitive tools. In order to learn more about various tools, please refer below:- 
 
@@ -93,7 +93,7 @@ Please open your [Voyant Tool](https://voyant-tools.org/). Once it is opened, pl
 
 *Please make sure to put both the links under separate lines*
 
-![](Part 1.jpg)
+![Picture displaying how to add links on voyant](Part 1.jpg)
 
 ***Part Two:***
 
@@ -101,11 +101,11 @@ You will see a Voyant dashboard that gives the analysis for both texts.
 
 The summary tab will you provide a comparative analysis of the novels on the basis of document length, vocabulary density, average words per sentence, readability index, most frequent words in the corpus, and distinctive words. 
 
-![](Part 2.jpg)
+![Picture displaying the summary tab](Part 2.jpg)
 
 When you will click on the document tab, it will reveal the words, types, ratios, and words/sentences for both novels. 
 
-![](Part2.2.jpg)
+![Picture displaying the document tab](Part2.2.jpg)
 
 ----
 
