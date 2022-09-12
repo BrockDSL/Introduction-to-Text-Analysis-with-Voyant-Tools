@@ -55,7 +55,7 @@ There are various other tools offered by Voyant: corpus tools, document tools, v
 *	Reader: Reader allows you read the document being analyzed.
 *	Documents: The assembled documents in the Voyant session, if you are analyzing more than one document.
 *	Topics: Generates term clusters from the document.
-*	Links: The collocation of terms in a corpus displayed in a network.
+*	Contexts: Shows each occurence of a keyword with their context
 
 
 <ins>**Visualization Tools**</ins>
@@ -68,6 +68,7 @@ There are various other tools offered by Voyant: corpus tools, document tools, v
 *	ScatterPlot: Visualization of how words cluster in a document.
 *	TermsRadio: Visualization that depicts the changes in the frequency of words in a document(s).
 *	TextualArc: Visualization of terms that include a weighted centroid of terms and an arc that follows terms in document order.
+*	Links: The collocation of terms in a corpus displayed in a network.
 
 ----
 ## Multiple Text Analysis
