@@ -41,7 +41,11 @@ Please click on the pink info icons on the image below to learn more about the d
 
 ## Learning Different Tools 
 
-There are various other tools offered by Voyant: corpus tools, document tools, visualization tool, grid tools and other tools. There are certain tools which are repetitive, for the purpose of this module, we have excluded the repetitive tools. In order to learn more about various tools, please refer below:- 
+There are various other tools offered by Voyant: corpus tools, document tools, visualization tool, grid tools and other tools. To choose another tools, you will have to hover the cursor on the left hand side of the question mark, just besdies other tool. As soon as you will hover the cursor, you will see three different icons. Click on the middle icon( windows symbol) to view  different tools. 
+
+![]()
+
+There are certain tools which are repetitive, for the purpose of this module, we have excluded the repetitive tools. In order to learn more about various tools, please refer below:- 
 
 <ins>**Corpus Tools**</ins>
 
