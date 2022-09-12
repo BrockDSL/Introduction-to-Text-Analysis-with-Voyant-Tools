@@ -48,14 +48,15 @@ There are various other tools offered by Voyant: corpus tools, document tools, v
 *	DreamScape: A preliminary attempt to explore how texts might be represented geo-spatially. The tool tries to identify locations (especially city names) mentioned in texts and suggests patterns of recurring connections between locations, patterns that might help identify travel of people, ideas, goods, or anything else.
 *	Veliza: An experimental tool for having a (limited) natural language exchange (in English) based on your corpus.
 *	WordTree: A tool that allows you to explore how words are used in phrases.
+*	Documents: The assembled documents in the Voyant session, if you are analyzing more than one document.
 
 
 <ins>**Document Tools**</ins>
 
 *	Reader: Reader allows you read the document being analyzed.
-*	Documents: The assembled documents in the Voyant session, if you are analyzing more than one document.
 *	Topics: Generates term clusters from the document.
-*	Contexts: Shows each occurence of a keyword with their context
+*	Contexts: Shows each occurence of a keyword with their context.
+*	Document Terms: A table view of term frequencies for each document.
 
 
 <ins>**Visualization Tools**</ins>
