@@ -17,9 +17,11 @@ I will use Voyant to analyze job posting text to draw upon the important words/t
 
 ## Getting Started
 
-* Start by opening [Voyant](https://voyant-tools.org/) in your web browser. There are two ways to open a corpus or text for analysis. The first is to choose open. This will give you the option to work with one of the pre-loaded corpuses in Voyant - the complete works of William Shakespeare, and the complete works of Jane Austen. These are good resources if you’re curious to see what you can do in Voyant, or if you happen to be working on research about either of these corpuses.
+* Start by opening [Voyant](https://voyant-tools.org/) in your web browser. There are three ways to open a corpus or text for analysis. The first option is to choose open. This will give you the option to work with one of the pre-loaded corpuses in Voyant - the complete works of William Shakespeare, and the complete works of Jane Austen. These are good resources if you’re curious to see what you can do in Voyant, or if you happen to be working on research about either of these corpuses.
 
-* Select upload to upload your own text or corpus. Choose the job posting description file from your computer that we downloaded in the previous section to analyze from this point. Voyant understands plain text, HTML, XML, PDF, RTF, and MS Word.
+* Second option is where users can paste in the text to be analyzed directly into the text area, or paste the URL of the website to be analyzed.
+
+* Third option is to select upload to upload your own text or corpus. Choose the job posting description file from your computer that we downloaded in the previous section to analyze from this point. Voyant understands plain text, HTML, XML, PDF, RTF, and MS Word.
 
 * Once you’ve uploaded the file, you’ll see your Voyant “dashboard”. 
 
