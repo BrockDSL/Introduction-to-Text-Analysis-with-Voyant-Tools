@@ -41,7 +41,7 @@ Please click on the pink info icons on the image below to learn more about the d
 
 ## Learning Different Tools 
 
-There are various other tools offered by Voyant: corpus tools, document tools, visualization tool, grid tools and other tools. To choose another tools, you will have to hover the cursor on the left hand side of the question mark, just besdies other tool. As soon as you will hover the cursor, you will see three different icons. Click on the middle icon( windows symbol) to view  different tools. 
+Voyant offers a variety of additional Tools such as corpus tools, document tools, visualization tools, grid tools, and other tools. To change which tools you are using, click the “Windows” button located in the top bar of a tool. This will reveal a drop-down menu, where you can select an alternate tool to switch out with that current tool.
 
 ![How to open differnt tools](Tools.jpg)
 
@@ -106,6 +106,18 @@ The summary tab will you provide a comparative analysis of the novels on the bas
 When you will click on the document tab, it will reveal the words, types, ratios, and words/sentences for both novels. 
 
 ![Picture displaying the document tab](Part2.2.jpg)
+
+***Part Three:***
+
+Under the cirrus, you will see the most frequent words used in the corpus. The Cirrus combines both the books and displays the word cloud that visualizes the most frequently used words of the documents. Hovering over a word will display the number of times that word appears on the document. Changing the bottom-left slider labeled (“Terms”) adjusts the number of shown words.
+
+![Picture displaying the Cirrus](Part 3.jpg)
+
+In the summary tab, you will see a section "Most frequent words in the corpus" which has the same words as in cirrus. 
+
+<ins>**Further Learning**</ins>
+
+To learn more 
 
 ----
 
