@@ -117,7 +117,7 @@ In the summary tab, you will see a section "Most frequent words in the corpus" w
 
 <ins>**Further Learning**</ins>
 
-To learn more 
+To further analyze your books, please try different variety of tools that are offered by Voyant. You will see different tools, that depict different findings which can be utilized to analyze the text as per our knowledge. 
 
 ----
 
