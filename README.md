@@ -106,7 +106,6 @@ The summary tab will you provide a comparative analysis of the novels on the bas
 When you will click on the document tab, it will reveal the words, types, ratios, and words/sentences for both novels. 
 
 ![Picture displaying the document tab](Part2.2.jpg)
-
 ***Part Three:***
 
 Under the cirrus, you will see the most frequent words used in the corpus. The Cirrus combines both the books and displays the word cloud that visualizes the most frequently used words of the documents. Hovering over a word will display the number of times that word appears on the document. Changing the bottom-left slider labeled (“Terms”) adjusts the number of shown words.
