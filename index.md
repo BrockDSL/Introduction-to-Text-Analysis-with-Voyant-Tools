@@ -1,4 +1,4 @@
-![Tool Logo](Introduction To Voyant.png)
+![Tool Logo](Introduction-To-Voyant.png)
 
 
 # Introduction to Voyant
